@@ -1,0 +1,172 @@
+; ==== SQL ====
+
+;Id: {001ec92e-f8a6-48eb-8c07-c2a41a7da51a}, Name: Microsoft SQL Server Data Tools
+[$RootKey$\Packages\{001ec92e-f8a6-48eb-8c07-c2a41a7da51a}]
+
+;Id: {006b829c-9b02-48de-a22e-c1896ebe3403}, Name: Microsoft SQL Server Data Tools - Intellisense Package
+[$RootKey$\Packages\{006b829c-9b02-48de-a22e-c1896ebe3403}]
+
+;Id: {00a9524f-427f-46ee-8a20-615c25ecbe6f}, Name: Microsoft SQL Server Data Tools, Profile
+[$RootKey$\Packages\{00a9524f-427f-46ee-8a20-615c25ecbe6f}]
+
+;Id: {00b73ab4-7a2a-4ddf-90c9-e78a163ab06a}, Name: Microsoft SQL Server Data Tools, Object Explorer
+[$RootKey$\Packages\{00b73ab4-7a2a-4ddf-90c9-e78a163ab06a}]
+
+;Id: {00FEE386-5F9F-4577-99F4-F327FAFC0FB9}, Name: Microsoft SQL Server Data Tools
+[$RootKey$\Packages\{00fee386-5f9f-4577-99f4-f327fafc0fb9}]
+
+;Id: {fef13793-c947-4fb1-b864-c9f0be9d9cf6}, Name: Microsoft SQL Server Data Tools, TSql Editor
+[$RootKey$\Packages\{fef13793-c947-4fb1-b864-c9f0be9d9cf6}]
+
+;Id: {74bc53b2-d9b7-4579-abe5-43d11a7ecd03}, Name: Microsoft SQL Server Data Tools - Table Designer Package
+[$RootKey$\Packages\{74bc53b2-d9b7-4579-abe5-43d11a7ecd03}]
+
+;Id: {9A62B3CA-5BDF-47CB-A406-3CEB946F1DDF}, Name: Microsoft SQL Server Data Tools, Sql Debugger
+[$RootKey$\Packages\{9a62b3ca-5bdf-47cb-a406-3ceb946f1ddf}]
+
+;Id: {DF308C9B-1270-403A-93E2-C05EDFB56A93}, Name: Microsoft SQL Server Data Tools, SQL PDW Extensions
+[$RootKey$\Packages\{df308c9b-1270-403a-93e2-c05edfb56a93}]
+
+;Id: {ed19932f-5443-4587-a005-1cb9158b2f64}, Name: Microsoft SQL Server Data Tools, T-SQL Language Services
+[$RootKey$\Packages\{74bc53b2-d9b7-4579-abe5-43d11a7ecd03}]
+
+; ==== VSTO ====
+
+;Id: {0210A0D1-C4B1-482C-A37A-E5811005418E}, Name: Microsoft.VisualStudio.Tools.Office.Ribbon.RibbonVSPackage
+[$RootKey$\Packages\{0210A0D1-C4B1-482C-A37A-E5811005418E}]
+
+;Id: {09CEFBAA-66D5-4FD2-B5BC-B9B2D7A8ADEF}, Name: Visual Studio Tools for Office Project Client Package for Excel
+[$RootKey$\Packages\{09CEFBAA-66D5-4FD2-B5BC-B9B2D7A8ADEF}]
+
+;Id: {0E109BD6-39F8-41AC-97B5-257344833610}, Name: Visual Studio Tools for Office SharePoint 15 Project Extensions Package
+[$RootKey$\Packages\{0E109BD6-39F8-41AC-97B5-257344833610}]
+
+;Id: {262BA188-21A9-4811-940C-7BE458539388}, Name: Visual Studio Tools for Office SharePoint Project Package
+[$RootKey$\Packages\{262BA188-21A9-4811-940C-7BE458539388}]
+
+;Id: {59B99E29-E334-44A5-B522-B8C467AEC0D0}, Name: Visual Studio Tools for Office Project Client Package for Office Add-ins
+[$RootKey$\Packages\{59B99E29-E334-44A5-B522-B8C467AEC0D0}]
+
+;Id: {D162022B-0058-4622-B6C2-03D6F60B2CFA}, Name: Visual Studio Tools for Office SharePoint BDC Project Extension Package
+[$RootKey$\Packages\{D162022B-0058-4622-B6C2-03D6F60B2CFA}]
+
+;Id: {D5A8BA1C-E38F-4CC8-98DF-8DC7A45CC646}, Name: Visual Studio Tools for Office Project Client Package for Word
+[$RootKey$\Packages\{D5A8BA1C-E38F-4CC8-98DF-8DC7A45CC646}]
+
+;Id: {FE128BF8-59A2-4ed7-8F2A-7EE1BC4D1C86}, Name: Visual Studio Tools for Office SharePoint Project Extensions Package
+[$RootKey$\Packages\{FE128BF8-59A2-4ed7-8F2A-7EE1BC4D1C86}]
+
+;Id: {D868D137-D00E-45D1-AF3B-A80950D55741}, Name: Visual Studio Tools for Office
+[$RootKey$\Packages\{D868D137-D00E-45D1-AF3B-A80950D55741}]
+
+; ==== TFS ====
+
+;Id: {9F19C2B5-949A-41c3-B6F9-F381869E4282}, Name: Visual Studio Team System
+[$RootKey$\Packages\{9F19C2B5-949A-41c3-B6F9-F381869E4282}]
+
+;Id: {17c5d08a-602c-4dfb-82b5-8e0f7f50c9d7}, Name: Microsoft.VisualStudio.TeamFoundation.PCW.PcwPackage
+[$RootKey$\Packages\{17c5d08a-602c-4dfb-82b5-8e0f7f50c9d7}]
+
+;Id: {1b4f495a-280a-3ba4-8db0-9c9b735e98ce}, Name: Microsoft.VisualStudio.TeamFoundation.VersionControl.SccPcwPluginPackage
+[$RootKey$\Packages\{1b4f495a-280a-3ba4-8db0-9c9b735e98ce}]
+
+;Id: {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}, Name: team foundation version control package
+[$RootKey$\Packages\{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}]
+
+;Id: {5BF14E63-E267-4787-B20B-B814FD043B38}, Name: Team Foundation Server Provider Package
+[$RootKey$\Packages\{5BF14E63-E267-4787-B20B-B814FD043B38}]
+
+;Id: {739f34b3-9ba6-4356-9178-ac3ea81bdf47}, Name: Microsoft.VisualStudio.TeamFoundation.Build.BuildPackage
+[$RootKey$\Packages\{739f34b3-9ba6-4356-9178-ac3ea81bdf47}]
+
+;Id: {75DF55D4-EC28-47FC-88AC-BE56203C9012}, Name: Microsoft.VisualStudio.TeamFoundation.Initialization.InitializationPackage
+[$RootKey$\Packages\{75DF55D4-EC28-47FC-88AC-BE56203C9012}]
+
+;Id: {8e01ec3e-2928-4aa5-b720-e28c163818e6}, Name: Microsoft.TeamFoundation.Client.ServicesHostPackage, Microsoft.VisualStudio.TeamFoundation.SharePointReporting
+[$RootKey$\Packages\{8e01ec3e-2928-4aa5-b720-e28c163818e6}]
+
+;Id: {b80b010d-188c-4b19-b483-6c20d52071ae}, Name: Microsoft.VisualStudio.TeamFoundation.TeamFoundationHost
+[$RootKey$\Packages\{b80b010d-188c-4b19-b483-6c20d52071ae}]
+
+;Id: {97d9322b-672f-42ab-b3cb-ca27aaedf09d}, Name: Microsoft.VisualStudio.TeamSystem.Developer.TSDevPkg, TSDevPkg, Version=14.0.0.0, Culture=neutral, PublicKeyToken=null
+[$RootKey$\Packages\{97d9322b-672f-42ab-b3cb-ca27aaedf09d}]
+
+;Id: {A8DC7E73-6BF8-4D90-840A-9A95832A2B47}, Name: Microsoft Visual Studio Team System Metrics Package
+[$RootKey$\Packages\{A8DC7E73-6BF8-4D90-840A-9A95832A2B47}]
+
+;Id: {D79B7E0A-F994-4D4D-8FAE-CAE147279E21}, Name: team foundation server provider stub package
+[$RootKey$\Packages\{D79B7E0A-F994-4D4D-8FAE-CAE147279E21}]
+
+;Id: {B20604B0-72BC-4953-BB92-95BF26D30CFA}, Name: Microsoft Visual Studio Team System Code Analysis Package
+[$RootKey$\Packages\{B20604B0-72BC-4953-BB92-95BF26D30CFA}]
+
+;Id: {7fe30a77-37f9-4cf2-83dd-96b207028e1b}, Name: SccProviderPackage
+[$RootKey$\Packages\{7fe30a77-37f9-4cf2-83dd-96b207028e1b}]
+
+; === Team Architect ===
+
+;Id: {fa1929d0-d314-4897-9248-6fe1faf50a89}, Name: Microsoft.VisualStudio.TeamArchitect.ModelingProject.ModelingProjectPackage, Microsoft.VisualStudio.TeamArchitect.ModelingProject, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{fa1929d0-d314-4897-9248-6fe1faf50a89}]
+
+;Id: {2a2100a2-0ac5-48ee-b56d-c9e5832e6f1e}, Name: Microsoft.VisualStudio.ArchitectureTools.Xmi.Import.Shell.VsPackage, Microsoft.VisualStudio.ArchitectureTools.Xmi.Import, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{2a2100a2-0ac5-48ee-b56d-c9e5832e6f1e}]
+
+;Id: {3452be84-3dd6-4133-839d-efb6208b469d}, Name: Microsoft.VisualStudio.TeamArchitect.ModelExplorer.ModelExplorerPackage, Microsoft.VisualStudio.TeamArchitect.ModelExplorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{3452be84-3dd6-4133-839d-efb6208b469d}]
+
+;Id: {59e21b88-8e88-47de-9fee-935fa485af40}, Name: Microsoft.VisualStudio.TeamArchitect.DesignersCommon.DesignersCommonPackage, Microsoft.VisualStudio.TeamArchitect.DesignersCommonPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{59e21b88-8e88-47de-9fee-935fa485af40}]
+
+;Id: {6f255d24-e053-4357-b0bb-d73d577f5eb4}, Name: Microsoft.VisualStudio.TeamArchitect.LayerDesigner.Shell.LayerDesignerPackage, Microsoft.VisualStudio.TeamArchitect.LayerDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{6f255d24-e053-4357-b0bb-d73d577f5eb4}]
+
+;Id: {718d98a4-3763-497a-8930-5081a62544ff}, Name: Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.SequenceDesignerPackage, Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{718d98a4-3763-497a-8930-5081a62544ff}]
+
+;Id: {9befcb41-a026-46ba-9f8a-aa2c2619bb18}, Name: Microsoft.VisualStudio.TeamArchitect.LogicalClassDesigner.LogicalClassDesignerPackage, Microsoft.VisualStudio.TeamArchitect.LogicalClassDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{9befcb41-a026-46ba-9f8a-aa2c2619bb18}]
+
+;Id: {ad5399fa-d19b-4e2a-97f8-508acf96236e}, Name: Microsoft.VisualStudio.TeamArchitect.UseCaseDesigner.UseCaseModelPackage, Microsoft.VisualStudio.TeamArchitect.UseCase.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{ad5399fa-d19b-4e2a-97f8-508acf96236e}]
+
+;Id: {BD9C702A-8738-4E0B-954F-44078D8EB457}, Name: Microsoft.VisualStudio.TeamArchitect.DesignersCommon.UltimateDesignersCommonPackage, Microsoft.VisualStudio.TeamArchitect.DesignersCommonPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{BD9C702A-8738-4E0B-954F-44078D8EB457}]
+
+;Id: {e1bc0ae8-0af6-41f4-b12a-de109db41662}, Name: Microsoft.VisualStudio.TeamArchitect.ComponentDesigner.ComponentDesignerPackage, Microsoft.VisualStudio.TeamArchitect.ComponentDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{e1bc0ae8-0af6-41f4-b12a-de109db41662}]
+
+;Id: {ed281a55-31b1-41ba-8fd3-6547a7e539cd}, Name: Microsoft.VisualStudio.TeamArchitect.ActivityDesigner.ActivityDesignerPackage, Microsoft.VisualStudio.TeamArchitect.ActivityDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{ed281a55-31b1-41ba-8fd3-6547a7e539cd}]
+
+;Id: {1fafd918-ae4a-4602-8efa-bdb72a1d9f6c}, Name: ArchitectureExplorerPackage
+[$RootKey$\Packages\{1fafd918-ae4a-4602-8efa-bdb72a1d9f6c}]
+
+;Id: {3a46ebd4-e03f-4840-ab9f-e3d6d385b89f}, Name: Microsoft.VisualStudio.ArchitectureTools.WorkItemLinking.WorkItemLinkingPackage
+[$RootKey$\Packages\{3a46ebd4-e03f-4840-ab9f-e3d6d385b89f}]
+
+;=== Sharepoint ===
+
+;Id: {540dcb6b-915e-4a16-a7d8-838d154377a8}, Name: Microsoft.VisualStudio.SharePoint.Designers.Package.DesignerPackage, Microsoft.VisualStudio.SharePoint.Designers.Package, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{540dcb6b-915e-4a16-a7d8-838d154377a8}]
+
+;Id: {97020FA8-0C93-43FF-9F31-466AB2B84FE4}, Name: Microsoft.VisualStudio.SharePoint.Explorer.SharePointExplorerPackage, Microsoft.VisualStudio.SharePoint.Explorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{97020FA8-0C93-43FF-9F31-466AB2B84FE4}]
+
+;Id: {c843aa91-d18b-4889-97de-2e1839364fc9}, Name: Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.BusinessDataConnectivityPackage, Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[$RootKey$\Packages\{c843aa91-d18b-4889-97de-2e1839364fc9}]
+
+;Id: {9edcc1af-8aa7-481e-a39d-0515a4f22707}, Name: Microsoft.VisualStudio.SharePoint.Designers.List.DesignerFramework.VsPackage
+[$RootKey$\Packages\{9edcc1af-8aa7-481e-a39d-0515a4f22707}]
+
+;Id: {E8CEC674-55A6-478F-BAE7-D306BE6DA96D}, Name: Microsoft.VisualStudio.SharePoint.Bootstrapper.VSPackage
+[$RootKey$\Packages\{E8CEC674-55A6-478F-BAE7-D306BE6DA96D}]
+
+;Id: {E1E64066-4FED-4364-9E3F-A4CD6F74E1B9}, Name: Microsoft.VisualStudio.SharePoint.BusinessConnectivityServices.VSPackage
+[$RootKey$\Packages\{E1E64066-4FED-4364-9E3F-A4CD6F74E1B9}]
+
+;==========
+;Id: {e8b06f41-6d01-11d2-aa7d-00c04f990343}, Name: Visual Studio Web Browser Package
+[$RootKey$\Packages\{e8b06f41-6d01-11d2-aa7d-00c04f990343}]
+
+
+;;;; more to come!

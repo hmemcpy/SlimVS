@@ -1,0 +1,356 @@
+;Dumped from HKCU\SOFTWARE\Microsoft\VisualStudio\14.0_Config\Packages
+
+;=== Visual Studio Features (https://msdn.microsoft.com/en-us/library/vstudio/dd891106(v=vs.120).aspx) ===
+
+;=== Core IDE ===
+;Id: {1D76B2E0-F11B-11d2-AFC3-00105A9991EF}, Name: Undo Package
+;Id: {DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}, Name: Visual Studio Environment Package
+;Id: {44E07B02-29A5-11D3-B882-00C04F79F802}, Name: Shell Commands Definition Package
+;Id: {5010C52F-44AB-4051-8CE1-D36C20D989B4}, Name: Visual Studio Directory Listing Package
+;Id: {6E87CFAD-6C05-4adf-9CD7-3B7943875B7C}, Name: Visual Studio Common IDE Package
+;Id: {715F10EB-9E99-11D2-BFC2-00C04F990235}, Name: Visual Studio Environment Menu Package
+;Id: {ED8979BC-B02F-4da9-A667-D3256C36220A}, Name: Visual Studio COM+ Library Manager Package
+;Id: {53544C4D-E3F8-4AA0-8195-8A8D16019423}, Name: Visual Studio Source Control Integration Package
+;Id: {282BD676-8B5B-11D0-8A34-00A0C91E2ACD}, Name: Visual Studio Solution Build Package
+;Id: {F5E7E720-1401-11d1-883B-0000F87579D2}, Name: Text Management Package
+;Id: {F74C5077-D848-4630-80C9-B00E68A1CA0C}, Name: Visual Studio VsSettings Package
+;Id: {B718A162-0361-4b0e-920B-D88D70BE609B}, Name: Visual Studio Build Manager Package
+;Id: {49d12072-378b-4ffa-a09e-40e0b5d097cc}, Name: Visual Studio Component Model Host Package (MEF -- nothing works without this!)
+
+;=== Shell ===
+;Id: {18333854-D2FF-44A3-98D8-40501B914D7D}, Name: Global Search Package (search in settings)
+;Id: {1491E936-6FFE-474E-8371-30E5920D8FDD}, Name: Image Service Package
+;Id: {8ff5c2a8-5eba-4717-8ee1-46b6427d8ff3}, Name: MRU Package
+;Id: {cf6a5c16-83b0-4d04-b702-195c35c6e887}, Name: Microsoft.VisualStudio.PlatformUI.SolutionNavigatorPackage
+;Id: {F384B236-B4A9-401b-BC58-3106E3ACA3EC}, Name: Shell Common UI Package
+;Id: {ba23157d-c797-4a3c-8535-d9c9aac03725}, Name: Microsoft.VisualStudio.PlatformUI.NavigateToPackage
+;Id: {a1609ac6-6b91-42e1-8b92-6c8593cb4a8d}, Name: Microsoft.VisualStudio.Dialogs
+;Id: {198E76C1-34C0-424D-9957-B3EBD80265FB}, Name: Microsoft Visual Studio Server Explorer Package
+;Id: {BB4BF712-FCF7-4D17-83BB-93E6478B4E5D}, Name: User Feed
+;Id: {00cd9dda-7350-457c-a240-71bd667fc4de}, Name: Task Scheduler Package
+;Id: {efaef2d3-8bdb-4d78-b3eb-b55e44203e80}, Name: Rules-based UI contexts implementation
+;Id: {AC2D3F3C-563E-4308-BC26-E00D49746A74}, Name: Microsoft Visual Studio Designer Bootstrap Package
+;Id: {7AC58323-1325-44DB-A4D5-2823A1426A13}, Name: Feature Flags Package
+;Id: {50C54C45-BB03-4B06-A1A7-916074F3135D}, Name: Publish Subscribe Package
+;Id: {A2863A10-2269-4D3F-9E38-149C15926E1D}, Name: Settings Package
+;Id: {5E56B3DB-7964-4588-8D49-D3523AB7BDB9}, Name: Environment Package Window Management
+;Id: {4825b9a3-93e2-4327-9044-41f72ee7e5c9}, Name: File Change Manager Package
+
+;=== Help ===
+;Id: {4A791146-19E4-11D3-B86B-00C04F79F802}, Name: Visual Studio Help Package
+
+;=== Task List ===
+;Id: {4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2}, Name: ErrorListPackage
+
+;=== Toolbox and Controls ===
+;Id: {2c298b35-07da-45f1-96a3-be55d91c8d7a}, Name: Toolbox Controls Installer Package
+;Id: {B7C8A95B-B8E4-4adb-9560-0F487D1429FB}, Name: Microsoft.VisualStudio.Modeling.Integration.Shell.ModelBusPackage, Microsoft.VisualStudio.Modeling.SDK.Integration.Shell.14.0, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {6F453E1A-31DF-4cd6-AF8B-72AE242272B9}, Name: Microsoft.VisualStudio.Toolbox.ToolboxPackage
+
+;=== Web Projects ===
+;Id: {349C5850-65DF-11DA-9384-00065B846F21}, Name: Microsoft.VisualStudio.Web.Application.WAPackage, Microsoft.VisualStudio.Web.Application, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {39c9c826-8ef8-4079-8c95-428f5b1c323f}, Name: Visual Web Developer Project System Package
+;Id: {8FF02D1A-C177-4ac8-A62F-88FC6EA65F57}, Name: Visual Web Developer Project Persistance Package
+;Id: {e7f851c8-6267-4794-b0fe-7bcab6dacbb4}, Name: Visual Web Developer Web Package
+;Id: {DC7F691A-91FC-4F7b-923E-FE829C3A18DC}, Name: Visual Web Developer Web Application Upgrade Package
+;Id: {f4b61ec8-36d8-4155-b2a0-199587d8ddcc}, Name: LessPackage
+;Id: {5330c67f-305c-4b17-a3dc-fbb7aee69c09}, Name: CssPackage
+;Id: {60116bb0-6f13-49e2-a1ce-a185c783b68b}, Name: ScssPackage
+;Id: {cf49ec7d-92b1-4bbd-9254-9cc13978e82e}, Name: HtmlPackage
+;Id: {a6efef5f-be9b-432a-adfe-74a119ab4478}, Name: JSONPackage
+;Id: {30db8f9b-ec9f-44d6-b377-83c7c27a1a8b}, Name: JavaScriptWebExtensionsPackage
+;Id: {B54016DB-B3E6-4960-8262-81772C777DE9}, Name: Microsoft.VisualStudio.Web.Mvc.Package.MvcPackage
+;Id: {f97fc405-54eb-4873-9215-24b7cfa8a75d}, Name: Microsoft.VisualStudio.Web.PasteJson.JsonPackage, Microsoft.VisualStudio.Web.PasteJson
+;Id: {faa496bf-fb16-4671-b3d5-e4b388a18478}, Name: ScaffoldingVsPackage
+;Id: {25bdad39-017d-4134-af6c-eadfdee6fe0e}, Name: HtmlClientDesignToolsCommonPackage
+;Id: {cb03d63d-47be-437d-b26b-1ad8aa7ff394}, Name: PackageManagementPackage
+;Id: {fe426dcb-ff5c-44a9-b84d-24cf031ba095}, Name: PortableLibraryPackage
+;Id: {b66f381b-48de-4c10-b71b-ef9a2a808d85}, Name: Microsoft.VisualStudio.WebClient.Diagnostics.HtmlToolHost.Package.HtmlToolHostPackage, Microsoft.VisualStudio.WebClient.Diagnostics.HtmlToolHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {8c28e535-abc9-4f92-b5c9-6c16617c8884}, Name: EurekaPackage (web page inspector)
+;Id: {1ad387fc-b1e8-4023-91fe-f22260b661db}, Name: Microsoft.VisualStudio.Web.Publish.WebPublishPackage, Microsoft.VisualStudio.Web.Publish
+
+;=== Editors ===
+;Id: {e269b994-ef71-4ce0-8bcd-581c217372e8}, Name: Text
+;Id: {1B437D20-F8FE-11D2-A6AE-00104BCC7269}, Name: Visual Studio HTM Editor Package
+;Id: {87569308-4813-40a0-9cd0-d7a30838ca3f}, Name: Microsoft XML Editor
+;Id: {5B98C2C0-CD7B-11D0-92DF-00A0C9138C45}, Name: Visual Studio Binary Editor Package
+
+;=== Web Browser ===
+;Id: {e8b06f41-6d01-11d2-aa7d-00c04f990343}, Name: Visual Studio Web Browser Package
+
+;=== WinForms Designer ===
+;Id: {68939055-38e0-4d17-92cb-8909710d8178}, Name: VSDesignPackage
+;Id: {7494682b-37a0-11d2-a273-00c04f8ef4ff}, Name: Windows Forms Designer Package
+;Id: {7b5d447b-0b12-41ea-a84e-c822034422d4}, Name: VSWindowsFormsPackage
+;Id: {80c7728b-70a6-4528-8669-73e02d1b9c41}, Name: DesignerConfigurationPackage
+;Id: {7eab3c71-59ff-4571-a5f3-643f255fc2e6}, Name: WindowsFormsIntegrationDesignPackage
+;Id: {9DA57A40-22DE-4CC9-896A-500489DCE0E7}, Name: DesignerEventsPackage
+
+;=== Debuggers ===
+;Id: {C9DD4A57-47FB-11D2-83E7-00C04F9902C1}, Name: Visual Studio Debugger (unmanaged)
+;Id: {BEB01DDF-9D2B-435B-A9E7-76557E2B6B52}, Name: Visual Studio Debugger Managed Package
+;Id: {f20b4e46-cbc8-4ae7-b10a-43d1d73b4145}, Name: VsPixPackage
+;Id: {d549bc66-c17b-4409-8729-583e60dc0bc1}, Name: VSDebugCoreUI
+;Id: {52f5727d-fe3b-4812-80c4-6a8eebeab94f}, Name: Microsoft.VisualStudio.Debugger.Parallel.Gpu
+;Id: {D277DC8A-AA1E-4303-8C03-1C58DB18E98B}, Name: Microsoft.VisualStudio.Debugger.Parallel
+;Id: {9ae103a9-5b3c-36bb-9883-6d4fbfa1d49a}, Name: LaunchHookPackage
+;Id: {8C0C630B-37F1-11E3-8259-6C3BE516EAD0}, Name: WebDiagnosticsAttach
+
+;=== Database tools ===
+;Id: {220A4C17-7E7C-4663-BBCC-5E607C6543CD}, Name: Visual Database Tools Package
+;Id: {EF828E39-70F5-4b8e-A3A0-4C0ECD28A69A}, Name: Visual Studio Database Tools Designers
+;Id: {d6c919aa-1217-41e2-a13b-9b92e1866305}, Name: Visual Studio Data Designers
+;Id: {E1AA7737-69BE-43d0-A425-E3097651E192}, Name: Visual Studio Data Package
+;Id: {A8F602E2-40CE-4daf-AE82-A457A91728B9}, Name: Visual Studio Data Designer Extensibility Package
+;Id: {8D8529D3-625D-4496-8354-3DAD630ECC1B}, Name: Visual Studio Explorers and Designers Package
+;Id: {F3A96850-E2AE-4e00-9278-8FE23F225A0D}, Name: Microsoft Report Designer
+;Id: {DA2110FE-DCAD-11D2-92FB-00C04FB98664}, Name: DBServicesPackage Class
+;Id: {7A4E8D96-5D5B-4415-9FAB-D6DCC56F47FB}, Name: Microsoft.Data.Entity.Design.BootstrapPackage.BootstrapPackage, Microsoft.Data.Entity.Design.BootstrapPackage, version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+;=== DSL Runtime ===
+;Id: {d1091694-ea72-4bdd-8918-78324cc25448}, Name: Microsoft DSL Tools
+;Id: {a9696de6-e209-414d-bbec-a0506fb0e924}, Name: Microsoft T4
+;Id: {aa612177-a69a-4391-b2f4-17f8a88f4bba}, Name: Microsoft.VisualStudio.ORDesigner.DslPackage.ORDesignerObjectsPackage, Microsoft.VisualStudio.ORDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A
+
+;=== SourceSafe support (????) ===
+;Id: {AA8EB8CD-7A51-11D0-92C3-00A0C9138C45}, Name: Visual SourceSafe Provider Package
+;Id: {53544C4D-B03D-4209-A7D0-D9DD13A4019B}, Name: Visual SourceSafe Provider Stub Package
+
+;=== WPF Designer ===
+;Id: {b3bae735-386c-4030-8329-ef48eeda4036}, Name: wpfflavor
+;Id: {0B680757-2C29-4531-80FA-535A5178AA98}, Name: Visual Studio Code Snippets Package
+
+;=== Managed Language Project Support ===
+;Id: {588205e0-66e0-11d3-8600-00c04f6123b3}, Name: Visual Studio Component Enumerator Package
+;Id: {f1e4cfca-4573-4345-8718-7bde2b1f0be8}, Name: Export Template Package
+;Id: {f5aee24d-62a8-4a0e-8164-75a76da2ddb7}, Name: Microsoft.VisualStudio.Progression.Native.VSPackage, Microsoft.VisualStudio.Progression.Native.VSPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {f5d4bb28-24eb-4fc7-bdec-bf96ba99a8ee}, Name: Microsoft.VsSDK.ExtensibilityProjectFlavor.ExtensibilityProjectFlavorPackage
+;Id: {164B10B9-B200-11D0-8C61-00A0C91E29D5}, Name: Visual Basic Project System
+;Id: {3347BEE8-D7A1-4082-95E4-38A439553CC2}, Name: Microsoft.VisualStudio.ProjectSystem.VS.Implementation.Package.ProjectPackage
+;Id: {33c9fe2e-1943-4edb-b1b1-a7f2411d7aef}, Name: Windows Phone Native Project System Package
+;Id: {D26B5834-CA88-4677-912A-EF20D6C4D589}, Name: Visual Studio Tools for Applications Project System Package
+;Id: {FAE04EC1-301F-11D3-BF4B-00C04F79EFBC}, Name: Visual C# Project System
+;Id: {98f77210-a364-4168-bae6-4d46fa7e19fe}, Name: Project K Project System
+;Id: {7D4626A3-18C3-43A4-A66C-169D1D609803}, Name: Silverlight Mobile VS Project System
+;Id: {F1C25864-3097-11D2-A5C5-00C04F7968B4}, Name: Visual C++ Project System Package
+;Id: {74AAD8B2-3294-49CB-BB5D-E9BAB132BFD5}, Name: Visual C++ Resource Editor Package
+;Id: {3A3E1789-3E35-47B0-8567-D2FB407CC63D}, Name: Visual C++ Property Manager Package
+;Id: {8C2EA640-ABC1-11D0-9D62-00C04FD9DFD9}, Name: Visual C++ Language Manager Package
+;Id: {2c0f61bf-3c36-468c-94b8-4021965749e7}, Name: Visual Studio Extensions for Windows Communication Foundation
+;Id: {bc9ca0b3-bb4f-449a-967c-29a8fae32086}, Name: Microsoft VSDesigner WCF Package
+;Id: {3807C10A-6B69-4525-9768-F7CF18D1D384}, Name: Microsoft.VisualStudio.Editors.WcfPackage, Microsoft.VisualStudio.Editors.WCF, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {AAFFDC1E-A1C7-47BC-B3DC-9E685DF3959B}, Name: Microsoft Windows Workflow Designer
+;Id: {FD526733-BD72-4F81-BEEC-BEB06E2AF59F}, Name: Microsoft Windows Workflow Foundation Designer
+;Id: {eda58c40-214d-426a-b1fd-745adf8be6cc}, Name: Microsoft.VisualStudio.WorkflowManager.Activities.WorkflowManagerPackage, Microsoft.VisualStudio.WorkflowManager.Activities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+;Id: {9D2881F7-F482-416C-8D64-CA83326250B9}, Name: microsoft workflow project package
+;Id: {CB22EE0E-4072-4ae7-96E2-90FCCF879544}, Name: Microsoft.VisualStudio.Silverlight.SLPackage, Microsoft.VisualStudio.Silverlight, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {f3277f08-a469-4fe7-b0ea-b7fe961aca51}, Name: NativeCompilationPackage
+;Id: {DE353D20-56EB-11D2-BF19-00C04F79EFBC}, Name: Visual Studio Project Persistence Package
+;Id: {afa50ba6-e144-43c7-8cc2-2244793ef4e9}, Name: Microsoft.VsWizards.ImportProjectFolderWizard.NewProjectFromExistingPackage, Microsoft.VisualStudio.ImportProjectFolderWizard, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {AAB75614-2F8F-4DA6-B0A6-763C6DBB2969}, Name: Microsoft.VisualStudio.Web.Project.WebProjectPackage, Microsoft.VisualStudio.Web.Project
+;Id: {7e89d1bd-0041-4382-9816-0e78fc502bed}, Name: Microsoft.VisualStudio.JavaScript.Project.JavaScriptProjectPackage, Microsoft.VisualStudio.JavaScript.Project, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {29C54E43-6464-4762-A105-FA308DCCB107}, Name: Microsoft.VisualStudio.ProjectSystem.VS.Implementation.SharedProjectFilesPackage.SharedProjectFilesPackage, Microsoft.VisualStudio.ProjectSystem.VS.Implementation, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+=== SQL ===
+;Id: {001ec92e-f8a6-48eb-8c07-c2a41a7da51a}, Name: Microsoft SQL Server Data Tools
+;Id: {006b829c-9b02-48de-a22e-c1896ebe3403}, Name: Microsoft SQL Server Data Tools - Intellisense Package
+;Id: {00a9524f-427f-46ee-8a20-615c25ecbe6f}, Name: Microsoft SQL Server Data Tools, Profile
+;Id: {00b73ab4-7a2a-4ddf-90c9-e78a163ab06a}, Name: Microsoft SQL Server Data Tools, Object Explorer
+;Id: {00FEE386-5F9F-4577-99F4-F327FAFC0FB9}, Name: Microsoft SQL Server Data Tools
+;Id: {74bc53b2-d9b7-4579-abe5-43d11a7ecd03}, Name: Microsoft SQL Server Data Tools - Table Designer Package
+;Id: {9A62B3CA-5BDF-47CB-A406-3CEB946F1DDF}, Name: Microsoft SQL Server Data Tools, Sql Debugger
+;Id: {DF308C9B-1270-403A-93E2-C05EDFB56A93}, Name: Microsoft SQL Server Data Tools, SQL PDW Extensions
+;Id: {ed19932f-5443-4587-a005-1cb9158b2f64}, Name: Microsoft SQL Server Data Tools, T-SQL Language Services
+;Id: {fef13793-c947-4fb1-b864-c9f0be9d9cf6}, Name: Microsoft SQL Server Data Tools, TSql Editor
+
+=== VSTO ===
+;Id: {0210A0D1-C4B1-482C-A37A-E5811005418E}, Name: Microsoft.VisualStudio.Tools.Office.Ribbon.RibbonVSPackage, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {09CEFBAA-66D5-4FD2-B5BC-B9B2D7A8ADEF}, Name: Visual Studio Tools for Office Project Client Package for Excel
+;Id: {0E109BD6-39F8-41AC-97B5-257344833610}, Name: Visual Studio Tools for Office SharePoint 15 Project Extensions Package
+;Id: {262BA188-21A9-4811-940C-7BE458539388}, Name: Visual Studio Tools for Office SharePoint Project Package
+;Id: {59B99E29-E334-44A5-B522-B8C467AEC0D0}, Name: Visual Studio Tools for Office Project Client Package for Office Add-ins
+;Id: {D162022B-0058-4622-B6C2-03D6F60B2CFA}, Name: Visual Studio Tools for Office SharePoint BDC Project Extension Package
+;Id: {D5A8BA1C-E38F-4CC8-98DF-8DC7A45CC646}, Name: Visual Studio Tools for Office Project Client Package for Word
+;Id: {D868D137-D00E-45D1-AF3B-A80950D55741}, Name: Visual Studio Tools for Office
+
+=== TFS ===
+;Id: {9F19C2B5-949A-41c3-B6F9-F381869E4282}, Name: Visual Studio Team System
+;Id: {17c5d08a-602c-4dfb-82b5-8e0f7f50c9d7}, Name: Microsoft.VisualStudio.TeamFoundation.PCW.PcwPackage
+;Id: {1b4f495a-280a-3ba4-8db0-9c9b735e98ce}, Name: Microsoft.VisualStudio.TeamFoundation.VersionControl.SccPcwPluginPackage
+;Id: {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}, Name: team foundation version control package
+;Id: {5BF14E63-E267-4787-B20B-B814FD043B38}, Name: Team Foundation Server Provider Package
+;Id: {739f34b3-9ba6-4356-9178-ac3ea81bdf47}, Name: Microsoft.VisualStudio.TeamFoundation.Build.BuildPackage
+;Id: {75DF55D4-EC28-47FC-88AC-BE56203C9012}, Name: Microsoft.VisualStudio.TeamFoundation.Initialization.InitializationPackage
+;Id: {8e01ec3e-2928-4aa5-b720-e28c163818e6}, Name: Microsoft.TeamFoundation.Client.ServicesHostPackage, Microsoft.VisualStudio.TeamFoundation.SharePointReporting
+;Id: {b80b010d-188c-4b19-b483-6c20d52071ae}, Name: Microsoft.VisualStudio.TeamFoundation.TeamFoundationHost
+;Id: {97d9322b-672f-42ab-b3cb-ca27aaedf09d}, Name: Microsoft.VisualStudio.TeamSystem.Developer.TSDevPkg, TSDevPkg, Version=14.0.0.0, Culture=neutral, PublicKeyToken=null
+;Id: {A8DC7E73-6BF8-4D90-840A-9A95832A2B47}, Name: Microsoft Visual Studio Team System Metrics Package
+;Id: {B20604B0-72BC-4953-BB92-95BF26D30CFA}, Name: Microsoft Visual Studio Team System Code Analysis Package
+;Id: {D79B7E0A-F994-4D4D-8FAE-CAE147279E21}, Name: team foundation server provider stub package
+;Id: {87ab66a2-b7a2-42ed-9af5-b8f3e2a3bc23}, Name: CodeReviewTextViewCreationListener
+;Id: {6238f138-0c0c-49ec-b24b-215ee59d84f0}, Name: Work Item Tracking
+;Id: {ca39e596-31ed-4b34-aa36-5f0240457a7e}, Name: Work Item Tracking
+;Id: {7fe30a77-37f9-4cf2-83dd-96b207028e1b}, Name: SccProviderPackage
+;Id: {e0910062-da1f-411c-b152-a3fc6392ee1f}, Name: LabPcwPluginPackage
+;Id: {fc5875e7-a59e-4b0a-9b8f-c515f5f24049}, Name: TestManagementPCW
+;Id: {4DAD8305-87C9-4431-99FF-FFE413A59F4B}, Name: Test Management
+
+=== Team Architect ===
+;Id: {fa1929d0-d314-4897-9248-6fe1faf50a89}, Name: Microsoft.VisualStudio.TeamArchitect.ModelingProject.ModelingProjectPackage, Microsoft.VisualStudio.TeamArchitect.ModelingProject, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {2a2100a2-0ac5-48ee-b56d-c9e5832e6f1e}, Name: Microsoft.VisualStudio.ArchitectureTools.Xmi.Import.Shell.VsPackage, Microsoft.VisualStudio.ArchitectureTools.Xmi.Import, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {3452be84-3dd6-4133-839d-efb6208b469d}, Name: Microsoft.VisualStudio.TeamArchitect.ModelExplorer.ModelExplorerPackage, Microsoft.VisualStudio.TeamArchitect.ModelExplorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {59e21b88-8e88-47de-9fee-935fa485af40}, Name: Microsoft.VisualStudio.TeamArchitect.DesignersCommon.DesignersCommonPackage, Microsoft.VisualStudio.TeamArchitect.DesignersCommonPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {6f255d24-e053-4357-b0bb-d73d577f5eb4}, Name: Microsoft.VisualStudio.TeamArchitect.LayerDesigner.Shell.LayerDesignerPackage, Microsoft.VisualStudio.TeamArchitect.LayerDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {718d98a4-3763-497a-8930-5081a62544ff}, Name: Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.SequenceDesignerPackage, Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {9befcb41-a026-46ba-9f8a-aa2c2619bb18}, Name: Microsoft.VisualStudio.TeamArchitect.LogicalClassDesigner.LogicalClassDesignerPackage, Microsoft.VisualStudio.TeamArchitect.LogicalClassDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {ad5399fa-d19b-4e2a-97f8-508acf96236e}, Name: Microsoft.VisualStudio.TeamArchitect.UseCaseDesigner.UseCaseModelPackage, Microsoft.VisualStudio.TeamArchitect.UseCase.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {BD9C702A-8738-4E0B-954F-44078D8EB457}, Name: Microsoft.VisualStudio.TeamArchitect.DesignersCommon.UltimateDesignersCommonPackage, Microsoft.VisualStudio.TeamArchitect.DesignersCommonPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {e1bc0ae8-0af6-41f4-b12a-de109db41662}, Name: Microsoft.VisualStudio.TeamArchitect.ComponentDesigner.ComponentDesignerPackage, Microsoft.VisualStudio.TeamArchitect.ComponentDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {ed281a55-31b1-41ba-8fd3-6547a7e539cd}, Name: Microsoft.VisualStudio.TeamArchitect.ActivityDesigner.ActivityDesignerPackage, Microsoft.VisualStudio.TeamArchitect.ActivityDesigner.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {1fafd918-ae4a-4602-8efa-bdb72a1d9f6c}, Name: ArchitectureExplorerPackage
+;Id: {85be9ba4-2924-4119-94d5-21f9b547831b}, Name: ShellPackage
+;Id: {3a46ebd4-e03f-4840-ab9f-e3d6d385b89f}, Name: Microsoft.VisualStudio.ArchitectureTools.WorkItemLinking.WorkItemLinkingPackage
+
+=== Sharepoint??? ===
+;Id: {540dcb6b-915e-4a16-a7d8-838d154377a8}, Name: Microsoft.VisualStudio.SharePoint.Designers.Package.DesignerPackage, Microsoft.VisualStudio.SharePoint.Designers.Package, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {97020FA8-0C93-43FF-9F31-466AB2B84FE4}, Name: Microsoft.VisualStudio.SharePoint.Explorer.SharePointExplorerPackage, Microsoft.VisualStudio.SharePoint.Explorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {c843aa91-d18b-4889-97de-2e1839364fc9}, Name: Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.BusinessDataConnectivityPackage, Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {9edcc1af-8aa7-481e-a39d-0515a4f22707}, Name: Microsoft.VisualStudio.SharePoint.Designers.List.DesignerFramework.VsPackage
+;Id: {E8CEC674-55A6-478F-BAE7-D306BE6DA96D}, Name: Microsoft.VisualStudio.SharePoint.Bootstrapper.VSPackage
+;Id: {E1E64066-4FED-4364-9E3F-A4CD6F74E1B9}, Name: Microsoft.VisualStudio.SharePoint.BusinessConnectivityServices.VSPackage
+
+;=== 3rd party/bundled ===
+;Id: {37c84c44-e299-48a4-b94f-fbb5fa472a25}, Name: XamBundlePackage (xamarin)
+;Id: {0c6e6407-13fc-4878-869a-c8b4016c57fe}, Name: ReSharper
+;Id: {14d2cab3-ee7f-496e-bf5d-c67d2cbdd84d}, Name: NCrunch
+;Id: {1f652737-ef8e-42cf-affd-e602fea4c6a2}, Name: PexExtensionsPackage
+;Id: {fe8a8c3d-328a-476d-99f9-2a24b75f8c7f}, Name: NodejsPackage
+;Id: {1e4ce699-d626-42c3-9803-cac3cd73ed77}, Name: SyntaxVisualizerExtensionPackage
+;Id: {2c309824-a7a7-4f97-b241-70e87a4164c7}, Name: PEX
+;Id: {2c52fa27-791e-4d04-9f82-234bbb58de78}, Name: Node.js Project Package
+;Id: {b515653f-fb69-4b64-9d3f-f1fcf8421dd0}, Name: Node.js Tools Profiling Package
+;Id: {29102e6c-34f2-4ff1-ba2f-c02ade3846e8}, Name: Node.js Tools - Interactive Window
+;Id: {30006521-82d9-47ea-ae51-552358752f11}, Name: GitExtensionsPackage
+;Id: {b2f3a2e9-a687-48ff-8c8e-7828ecc0627d}, Name: PackageDuoCodeExtension
+;Id: {12b27ee7-3aa0-474e-8bb8-dd1a3bb2bced}, Name: FakesPackage
+;Id: {2f99237e-e34f-4a3d-a337-500e4b3167b8}, Name: PowerShellProjectPackage
+;Id: {702aa1b3-556e-4aee-afb6-dcfa7fc420d3}, Name: PowerShell Interactive Window
+;Id: {f152487e-9a22-4cf9-bee6-a8f7c77f828d}, Name: PowerToolsCommandsPackage (F# Powertools)
+;Id: {f82c1ef6-3b52-425e-bc28-4934e6073a32}, Name: GitDiffMargin.GitDiffMarginPackage, GitDiffMargin, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+;Id: {58dce676-42b0-4dd6-9ee4-afbc8e582b8a}, Name: PowerShellToolsPackage
+;Id: {5fcc8577-4feb-4d04-ad72-d6c629b083cc}, Name: NuGetPackage
+;Id: {ab96e999-0d6d-4d1a-a034-debb50fe72d5}, Name: EditorConfig.VisualStudio.PluginPackage, EditorConfigPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+;Id: {5dbd8818-e6ab-41b6-bbda-8092ad8e254c}, Name: PythonProjectPackage
+;Id: {8d6fdf26-c2d9-43d0-866a-f2af71f19813}, Name: Microsoft VisualStudio Powershell Tools
+
+;=== Azure/Cloud ===
+;Id: {1e863ae9-93f6-42fd-a301-d3391f876208}, Name: Microsoft Azure Common Tools
+;Id: {842377a1-ba0e-49be-ba8a-61f6101ce0da}, Name: Windows Azure Web Sites tooling package
+;Id: {1a4efade-f6b2-4490-a2ef-21d5f3d1c8e0}, Name: Application Insights Tools for Visual Studio
+;Id: {f1a8554a-c492-4871-92e2-7a5ee5940c00}, Name: ServicesPackage
+
+;=== Language Services ===
+;Id: {13c3bbb4-f18f-4111-9f54-a0fb010d9194}, Name: CSharpPackage
+;Id: {20aaf8fa-14c0-4897-8ca0-4d861e2b1212}, Name: XML Schema Designer
+;Id: {21af45b0-ffa5-11d0-b63f-00a0c922e851}, Name: Class Outline Package
+;Id: {1B027A40-8F43-11D0-8D11-00A0C91BC942}, Name: Visual C++ Package
+;Id: {574fc912-f74f-4b4e-92c3-f695c208a2bb}, Name: VisualBasicPackage
+;Id: {083a5893-2ab9-4424-a811-13b06749f39a}, Name: Microsoft.VCClassWizard.ClassWizardPackage
+;Id: {2ffe45c4-5c73-493c-b187-f2e955ff875e}, Name: TypeScript for Microsoft Visual Studio
+;Id: {91a04a73-4f2c-4e7c-ad38-c1a68e7da05c}, Name: Visual F# (F# project package)
+;Id: {871d2a70-12a2-4e42-9440-425dd92a4116}, Name: Visual F# (F# language service)
+;Id: {2ef1ec52-c8bf-4fe0-8ece-ba9c0d5d1603}, Name: XamlLanguagePackage
+;Id: {d62c17c6-44b3-4e5d-b0aa-1c5536e979d9}, Name: Microsoft.VisualStudio.JSLS.JavaScriptLanguageServicePackage, Microsoft.VisualStudio.JSLS, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {6cf2e545-6109-4730-8883-cf43d7aec3e1}, Name: RoslynPackage
+;Id: {512be089-83ec-4cc6-8483-cf16565ae209}, Name: XamlDesignerPackage
+;Id: {8291c340-36b8-4c91-8c40-cce75398ff75}, Name: XamlDiagnosticsPackage
+;Id: {52244c9d-db46-4905-bda0-b3406c46d2a4}, Name: CoffeeScriptPackage
+;Id: {317a330d-8757-4084-8526-e8a1d165433d}, Name: ApacheCordovaToolsPackage
+;Id: {48d4a2c1-02ad-4f18-9153-620511bacb7b}, Name: ReferenceManagerPackage
+;Id: {1a8adc4d-6ebe-4534-95e2-763a155ca975}, Name: ProvidersPackage
+
+;=== Windows Store ===
+;Id: {19aa6823-3ac0-4210-92af-07e2f0b4e81f}, Name: CommandsPackage
+;Id: {20620670-54b9-4acb-a3d8-2f86e594132a}, Name: WindowsStorePackage
+;Id: {4bb3488f-6dcb-4b4d-8e4b-2841bab2d553}, Name: ManifestDesignerPackage
+;Id: {12ed8604-3c37-4407-8377-66e3bd16ed3f}, Name: StoreValidationPackage
+
+;=== Windows Phone ===
+;Id: {91dff702-e034-4ce2-9ee6-a5bf33341908}, Name: WindowsPhonePackage
+;Id: {bb09c138-6c6f-4542-8a07-6fda29ebcd9a}, Name: Simulation Package
+;Id: {b26e24fa-538e-4999-a872-b5fa40ce2f8d}, Name: Microsoft.VisualStudio.WindowsPhone.MktPlaceIntegration.MktPlaceIntegrationPackage
+;Id: {2F72A496-429D-4C0A-B26A-0EF8B156B243}, Name: Microsoft.VisualStudio.WebClient.Diagnostics.Phone.DebugIEOnPhonePackage, Microsoft.VisualStudio.WebClient.Diagnostics.Phone, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {6f4914d1-85ee-4b98-be68-9afb1ed9c1bc}, Name: MenuCommandsVSPackagePackage
+;Id: {AA5DC52C-3214-48C1-858D-80FFA126101F}, Name: ManifestDesignerPackage
+
+;=== Tools ===
+;Id: {f47a268a-bba9-442d-ac61-eef97f906458}, Name: CodeCoveragePackage
+;Id: {0b35348f-867a-4ab9-85f9-29bc71441c2a}, Name: CodeCloneClientPackage
+;Id: {26a9ce85-c3c7-436e-9a48-0dc9c5b781e9}, Name: CodeCloneServicePackage
+;Id: {13373ac4-7f04-4c7e-a9a7-2bd33349b323}, Name: GenerateUnitTestPackage
+;Id: {9cb895ca-2347-4524-ab57-688951c8f4cb}, Name: LoadTestPackage
+;Id: {5bd71170-4ee6-4800-89d9-d6cc4d6ec488}, Name: LoadTestManagerPackage
+;Id: {6b2c6663-6c7a-4354-953d-060662c32b53}, Name: CodedUITestEditorPackage
+;Id: {c7d468c9-e217-4ebf-800a-e928e4e6bb94}, Name: GotoCodePackage
+;Id: {d887442b-ffca-401b-ace1-69617ffb8668}, Name: DiffCommandLinePackage (GotoCode)
+;Id: {4a3c3f3b-d075-419f-b06e-06b35eb8227e}, Name: OpenProjectCommandLinePackage (GotoCode)
+;Id: {1aab8aee-afba-4c01-b444-0a56dc17792f}, Name: TestWindowPackageContinuousTestRunner
+;Id: {0e4de14d-16c3-43b8-a5a4-e8d19fd1a8bc}, Name: TestWindowProfilerPackage
+;Id: {bfc24bf4-b994-4757-bcdc-1d5d2768bf29}, Name: TestWindowPackage
+;Id: {24bf811d-5d4c-404f-a533-2b535b6efcfe}, Name: TestServicePackage
+;Id: {e7576c05-1874-450c-9e98-cf3a0897a069}, Name: ExtensionManagerPackage
+;Id: {b79224d7-7d97-4940-8bb6-f771e1d8b0c9}, Name: Profiler shell package
+;Id: {DD1683A7-5A4C-4234-81B3-A4CC91DBEAC9}, Name: Visual Studio Class Designer Package
+;Id: {b466091b-94ad-416f-bb8a-42534d423a67}, Name: Microsoft.VisualStudio.PerfWatson.Provider
+;Id: {3F3D9528-BAC4-420e-8147-29896300C5C0}, Name: Visual Studio Call Hierarchy Package
+;Id: {8de3f279-5341-44b9-afd8-f429920df4ae}, Name: DiffPackage
+;Id: {31038792-97E7-4B54-8764-B70ADD200F0E}, Name: Test Contracts Package
+;Id: {494b203e-3c94-40ab-b331-6cb32460b617}, Name: Microsoft.VisualStudio.TraceLogPackage.TraceLogPackage (IntelliTrace)
+
+;=== Misc ===
+;Id: {0E13FC54-9231-410b-8B74-95689CD32627}, Name: Start Page
+;Id: {fef989bb-7868-4b73-8864-cc1c3c07a458}, Name: Sign In Package
+;Id: {353A1B92-12DE-4478-A230-535ED52F6C3E}, Name: CollaborationPackage (codesense/codelens)
+;Id: {6ac6a637-874e-4829-9aa0-b0cf5c41c735}, Name: GitCollaborationPackage (codesense/codelens)
+;Id: {480d29df-2b3d-445f-b055-fe2c74913a83}, Name: FileIndicatorPackage (codesense/codelens)
+;Id: {f4a63b2a-49ab-4b2d-aa59-a10f01026c89}, Name: Visual Studio Performance Tool
+;Id: {22512d50-40bc-4dea-89b1-21d70bb4218e}, Name: Visual Studio Diagnostics Hub
+;Id: {2DC9DAA9-7F2D-11d2-9BFC-00C04F9901D1}, Name: Visual Studio Logging Package
+;Id: {dfe21000-2a85-444f-8c75-f28376aa1c0f}, Name: PlaceholderProjectPackage
+;Id: {C194969A-A5B1-4AF2-A9DF-ECF7CE982A05}, Name: Roaming Profiles Package
+;Id: {30D5B2E6-64BF-422F-A2BF-5D5B4D66548F}, Name: Settings Store Synchronization Delayed Init Package
+;Id: {b89cd7d2-19db-4b60-a958-e882ae71a66e}, Name: Microsoft.VisualStudio.Services.UserNotifications.UserNotificationsPackage
+;Id: {B22490B8-AA51-43B1-97EE-509A33B681F3}, Name: Microsoft.VisualStudio.Feedback.FeedbackPackage
+;Id: {8e15f3da-b303-4af9-814a-1dc5c2583398}, Name: ConnectedServicesPackage
+;Id: {54befe64-0558-4d8c-9fd5-ab0b54733b08}, Name: VSTelemetryPackage
+;Id: {7f2464ae-d49b-4c01-bcdc-55bdd4c18bcf}, Name: DiagnosticsHubPackageShim
+;Id: {9C987E78-F0BF-45CA-9BA5-96D3E4B2BAC6}, Name: Microsoft.VisualStudio.Shell.Connected.AccountManagerService.AccountManagerPackage
+;Id: {A5C25D8F-4D74-4924-BD8C-F3C2B860F4EC}, Name: Microsoft.VisualStudio.Shell.Connected.Packages.OnlineLicensing.OnlineLicensingManagerPackage
+;Id: {90F04B5C-C9EB-46f2-8E89-34A07A998826}, Name: Microsoft.VisualStudio.Shell.Connected.CredentialStorage.CredentialServicePackage
+;Id: {7F679D93-2EB6-47C9-85EB-F6AD16902662}, Name: Microsoft.VisualStudio.Shell.Connected.ConnectedUser.ConnectedUserPackage
+;Id: {5e80a5a1-b722-4727-9015-148aab6310b0}, Name: Microsoft.VisualStudio.Shell.Connected.UserInformation.UserInformationPackage
+;Id: {3e97f487-2ee7-44ab-8e03-f40e94928aeb}, Name: AuthenticationPackage
+;Id: {9b3b4731-2399-4055-8ce3-408494927371}, Name: CommandsPackage
+;Id: {03FD0D18-56CC-46DC-BA9B-0873A6F658D9}, Name: Microsoft.VisualStudio.ClientDiagnostics.ClientDiagnosticsPackage
+;Id: {55838653-1598-42E2-B251-B8BF7F864826}, Name: Microsoft.VisualStudio.Diagnostics.Common.Package.DiagnosticsPackage,Microsoft.VisualStudio.Diagnostics.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {05b0dcb8-5f74-4a94-ab2f-8b2354c977ef}, Name: Visual Studio Solution Telemetry Package
+;Id: {809392FD-F7A4-4095-B42F-374D1961811B}, Name: Visual Studio Window Frame Usage Telemetry Package
+;Id: {895b3842-f118-4227-8481-40e8d221b1c5}, Name: GraphicsPackage
+;Id: {5f2e5e42-4192-4d79-a0d8-1d881e808829}, Name: ProviderPackage
+;Id: {54DB0172-CC19-4944-9E43-D517D95BF496}, Name: SearchProviders Package
+;Id: {700514AE-5A76-4367-B0AE-445475F75D3F}, Name: Microsoft.VisualStudio.Editors.ClickOncePackage
+;Id: {54888390-2C04-4B04-B451-3166730C75BA}, Name: Roaming Manager Package
+
+;=== ??? ===
+;Id: {DD7B74B5-C1F9-411A-B22E-5E711592BC6B}, Name: Async Query Service Package
+;Id: {ECC51AFF-CEA9-4079-8DB4-7FA20BF00531}, Name: Visual Studio Converters Package
+;Id: {2bf593c7-1727-49ba-85a0-f6a73ba6caee}, Name: RepositoryPackage
+;Id: {bb89afca-43da-45c1-907d-9d61dd11f28d}, Name: TailoredLibraryPackage
+;Id: {65D2E08F-C7DD-4512-9486-156881C91F6E}, Name: Microsoft.VisualStudio.TailoredProjectServices
+;Id: {f236d986-19af-41b2-ac0a-cf4f9bf1cc4a}, Name: Microsoft.VisualStudio.ToolIntegration.VSHost.BackplanePackage, Microsoft.VisualStudio.ToolIntegration.Backplane.VSHost, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+;Id: {ad1a73b0-c489-4c9c-b1fe-eea54cd19a4f}, Name: Microsoft Visual Studio Progression
+;Id: {72391CE3-743A-4a55-8927-4217541F6517}, Name: StanPackage
+;Id: {4a2f8f5f-1bcb-4c7a-b0d6-6f82fd6fdbc8}, Name: ContextManagementPackagePackage
+;Id: {0B93CCC5-BC52-40E9-91A3-7B8B58C4526B}, Name: Microsoft.VisualStudio.Services.Integration.ServicesPackage, Microsoft.VisualStudio.Services.Integration
+
+=================
