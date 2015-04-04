@@ -353,4 +353,34 @@
 ;Id: {4a2f8f5f-1bcb-4c7a-b0d6-6f82fd6fdbc8}, Name: ContextManagementPackagePackage
 ;Id: {0B93CCC5-BC52-40E9-91A3-7B8B58C4526B}, Name: Microsoft.VisualStudio.Services.Integration.ServicesPackage, Microsoft.VisualStudio.Services.Integration
 
-;=================
+;=== Satellite DLLs ===
+;Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[$RootKey$\Packages\{13BfC227-548e-4f59-aa0d-df774c2c5e9b}]
+;Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[$RootKey$\Packages\{13bfc60e-3c70-47cc-bfa2-fb70c9754e2f}]
+;Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[$RootKey$\Packages\{13bfcd3d-3597-4e97-bbac-16a393654f5a}]
+;Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[$RootKey$\Packages\{13BFCEF0-E926-4bde-A14C-EA09993E816C}]
+;msenvui.dll
+[$RootKey$\Packages\{4DB90D39-D5C9-4E11-85D3-C77668F19CC4}]
+;Microsoft.VisualStudio.TestTools.Tips.TuipPackage.TuipPackage
+[$RootKey$\Packages\{52CBD135-1F97-2580-011F-C7CD052E44DE}]
+;Microsoft.VSSDK.Tools.VsIdeHostAdapters.TestHostPackage
+[$RootKey$\Packages\{56072b29-f62b-4274-8ed5-a26458487f07}]
+;Microsoft.VisualStudio.TestTools.CodedUITest.UITestPackage
+[$RootKey$\Packages\{6077292c-6751-4483-8425-9026bc0187b6}]
+;Microsoft.VisualStudio.Editors.VBPackage
+[$RootKey$\Packages\{67909B06-91E9-4F3E-AB50-495046BE9A9A}]
+;Microsoft.VisualStudio.Services.FeatureFlags.FeatureFlagsPackage
+[$RootKey$\Packages\{7AC58323-1325-44DB-A4D5-2823A1426A13}]
+;Microsoft.Data.Entity.Design.Package.MicrosoftDataEntityDesignPackage
+[$RootKey$\Packages\{8889E051-B7F9-4781-BB33-2A36A9BDB3A5}]
+;Microsoft.VisualStudio.TestTools.TestCaseManagement.QualityToolsPackage
+[$RootKey$\Packages\{a9405ae6-9ac6-4f0e-a03f-7afe45f6fcb7}]
+;TaskRunnerExplorerVsPackage
+[$RootKey$\Packages\{b483c4e7-43a6-4f7b-a9a1-79e2c5d12148}]
+;Microsoft.VisualStudio.Shell.VsHubServicePackage
+[$RootKey$\Packages\{F419E6BB-F72F-42CF-ACFE-D0D0E17FCB17}]
+;Visual Studio Tools for Office SharePoint Project Extensions Package
+[$RootKey$\Packages\{FE128BF8-59A2-4ed7-8F2A-7EE1BC4D1C86}]
