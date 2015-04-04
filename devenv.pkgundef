@@ -24,10 +24,14 @@
 ;[$RootKey$\Packages\{1491E936-6FFE-474E-8371-30E5920D8FDD}]
 ;Id: {6E87CFAD-6C05-4adf-9CD7-3B7943875B7C}, Name: Visual Studio Common IDE Package
 ;[$RootKey$\Packages\{6E87CFAD-6C05-4adf-9CD7-3B7943875B7C}]
+;Id: {F5E7E720-1401-11d1-883B-0000F87579D2}, Name: Text Management Package
+;[$RootKey$\Packages\{F5E7E720-1401-11d1-883B-0000F87579D2}]
 ;===
 
 ;Id: {44E07B02-29A5-11D3-B882-00C04F79F802}, Name: Shell Commands Definition Package
 ;[$RootKey$\Packages\{44E07B02-29A5-11D3-B882-00C04F79F802}]
+;Id: {49d12072-378b-4ffa-a09e-40e0b5d097cc}, Name: Visual Studio Component Model Host Package (MEF -- nothing works without this!)
+;[$RootKey$\Packages\{49d12072-378b-4ffa-a09e-40e0b5d097cc}]
 
 ;Id: {1D76B2E0-F11B-11d2-AFC3-00105A9991EF}, Name: Undo Package
 [$RootKey$\Packages\{1D76B2E0-F11B-11d2-AFC3-00105A9991EF}]
@@ -40,14 +44,11 @@
 [$RootKey$\Packages\{53544C4D-E3F8-4AA0-8195-8A8D16019423}]
 ;Id: {282BD676-8B5B-11D0-8A34-00A0C91E2ACD}, Name: Visual Studio Solution Build Package
 [$RootKey$\Packages\{282BD676-8B5B-11D0-8A34-00A0C91E2ACD}]
-;Id: {F5E7E720-1401-11d1-883B-0000F87579D2}, Name: Text Management Package
-[$RootKey$\Packages\{F5E7E720-1401-11d1-883B-0000F87579D2}]
 ;Id: {F74C5077-D848-4630-80C9-B00E68A1CA0C}, Name: Visual Studio VsSettings Package
 [$RootKey$\Packages\{F74C5077-D848-4630-80C9-B00E68A1CA0C}]
 ;Id: {B718A162-0361-4b0e-920B-D88D70BE609B}, Name: Visual Studio Build Manager Package
 [$RootKey$\Packages\{B718A162-0361-4b0e-920B-D88D70BE609B}]
-;Id: {49d12072-378b-4ffa-a09e-40e0b5d097cc}, Name: Visual Studio Component Model Host Package (MEF -- nothing works without this!)
-[$RootKey$\Packages\{49d12072-378b-4ffa-a09e-40e0b5d097cc}]
+
 
 ;=== Shell ===
 ;=== DO NOT DISABLE THOSE, THEY ARE REQUIRED FOR VISUAL STUDIO SHELL TO COME UP ===
@@ -55,7 +56,11 @@
 ;[$RootKey$\Packages\{F384B236-B4A9-401b-BC58-3106E3ACA3EC}]
 ;Id: {54befe64-0558-4d8c-9fd5-ab0b54733b08}, Name: VSTelemetryPackage
 ;[$RootKey$\Packages\{54befe64-0558-4d8c-9fd5-ab0b54733b08}]
+;Id: {a1609ac6-6b91-42e1-8b92-6c8593cb4a8d}, Name: Microsoft.VisualStudio.Dialogs
+;[$RootKey$\Packages\{a1609ac6-6b91-42e1-8b92-6c8593cb4a8d}]
 ;===
+;Id: {e7576c05-1874-450c-9e98-cf3a0897a069}, Name: ExtensionManagerPackage
+;[$RootKey$\Packages\{e7576c05-1874-450c-9e98-cf3a0897a069}]
 
 ;Id: {efaef2d3-8bdb-4d78-b3eb-b55e44203e80}, Name: Rules-based UI contexts implementation
 [$RootKey$\Packages\{efaef2d3-8bdb-4d78-b3eb-b55e44203e80}]
@@ -73,8 +78,6 @@
 
 ;Id: {ba23157d-c797-4a3c-8535-d9c9aac03725}, Name: Microsoft.VisualStudio.PlatformUI.NavigateToPackage
 [$RootKey$\Packages\{ba23157d-c797-4a3c-8535-d9c9aac03725}]
-;Id: {a1609ac6-6b91-42e1-8b92-6c8593cb4a8d}, Name: Microsoft.VisualStudio.Dialogs
-[$RootKey$\Packages\{a1609ac6-6b91-42e1-8b92-6c8593cb4a8d}]
 ;Id: {198E76C1-34C0-424D-9957-B3EBD80265FB}, Name: Microsoft Visual Studio Server Explorer Package
 [$RootKey$\Packages\{198E76C1-34C0-424D-9957-B3EBD80265FB}]
 ;Id: {BB4BF712-FCF7-4D17-83BB-93E6478B4E5D}, Name: User Feed
@@ -147,7 +150,7 @@
 
 ;=== Editors ===
 ;Id: {e269b994-ef71-4ce0-8bcd-581c217372e8}, Name: Text
-[$RootKey$\Packages\{e269b994-ef71-4ce0-8bcd-581c217372e8}]
+;[$RootKey$\Packages\{e269b994-ef71-4ce0-8bcd-581c217372e8}]
 ;Id: {1B437D20-F8FE-11D2-A6AE-00104BCC7269}, Name: Visual Studio HTM Editor Package
 [$RootKey$\Packages\{1B437D20-F8FE-11D2-A6AE-00104BCC7269}]
 ;Id: {87569308-4813-40a0-9cd0-d7a30838ca3f}, Name: Microsoft XML Editor
@@ -572,8 +575,7 @@
 [$RootKey$\Packages\{bfc24bf4-b994-4757-bcdc-1d5d2768bf29}]
 ;Id: {24bf811d-5d4c-404f-a533-2b535b6efcfe}, Name: TestServicePackage
 [$RootKey$\Packages\{24bf811d-5d4c-404f-a533-2b535b6efcfe}]
-;Id: {e7576c05-1874-450c-9e98-cf3a0897a069}, Name: ExtensionManagerPackage
-[$RootKey$\Packages\{e7576c05-1874-450c-9e98-cf3a0897a069}]
+
 ;Id: {b79224d7-7d97-4940-8bb6-f771e1d8b0c9}, Name: Profiler shell package
 [$RootKey$\Packages\{b79224d7-7d97-4940-8bb6-f771e1d8b0c9}]
 ;Id: {DD1683A7-5A4C-4234-81B3-A4CC91DBEAC9}, Name: Visual Studio Class Designer Package
@@ -626,7 +628,7 @@
 ;Id: {90F04B5C-C9EB-46f2-8E89-34A07A998826}, Name: Microsoft.VisualStudio.Shell.Connected.CredentialStorage.CredentialServicePackage
 [$RootKey$\Packages\{90F04B5C-C9EB-46f2-8E89-34A07A998826}]
 ;Id: {7F679D93-2EB6-47C9-85EB-F6AD16902662}, Name: Microsoft.VisualStudio.Shell.Connected.ConnectedUser.ConnectedUserPackage
-[$RootKey$\Packages\{7F679D93-2EB6-47C9-85EB-F6AD16902662}]
+;[$RootKey$\Packages\{7F679D93-2EB6-47C9-85EB-F6AD16902662}]
 ;Id: {5e80a5a1-b722-4727-9015-148aab6310b0}, Name: Microsoft.VisualStudio.Shell.Connected.UserInformation.UserInformationPackage
 [$RootKey$\Packages\{5e80a5a1-b722-4727-9015-148aab6310b0}]
 ;Id: {3e97f487-2ee7-44ab-8e03-f40e94928aeb}, Name: AuthenticationPackage
