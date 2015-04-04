@@ -151,7 +151,7 @@
 ;Id: {7e89d1bd-0041-4382-9816-0e78fc502bed}, Name: Microsoft.VisualStudio.JavaScript.Project.JavaScriptProjectPackage, Microsoft.VisualStudio.JavaScript.Project, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {29C54E43-6464-4762-A105-FA308DCCB107}, Name: Microsoft.VisualStudio.ProjectSystem.VS.Implementation.SharedProjectFilesPackage.SharedProjectFilesPackage, Microsoft.VisualStudio.ProjectSystem.VS.Implementation, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 
-=== SQL ===
+;=== SQL ===
 ;Id: {001ec92e-f8a6-48eb-8c07-c2a41a7da51a}, Name: Microsoft SQL Server Data Tools
 ;Id: {006b829c-9b02-48de-a22e-c1896ebe3403}, Name: Microsoft SQL Server Data Tools - Intellisense Package
 ;Id: {00a9524f-427f-46ee-8a20-615c25ecbe6f}, Name: Microsoft SQL Server Data Tools, Profile
@@ -163,7 +163,7 @@
 ;Id: {ed19932f-5443-4587-a005-1cb9158b2f64}, Name: Microsoft SQL Server Data Tools, T-SQL Language Services
 ;Id: {fef13793-c947-4fb1-b864-c9f0be9d9cf6}, Name: Microsoft SQL Server Data Tools, TSql Editor
 
-=== VSTO ===
+;=== VSTO ===
 ;Id: {0210A0D1-C4B1-482C-A37A-E5811005418E}, Name: Microsoft.VisualStudio.Tools.Office.Ribbon.RibbonVSPackage, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {09CEFBAA-66D5-4FD2-B5BC-B9B2D7A8ADEF}, Name: Visual Studio Tools for Office Project Client Package for Excel
 ;Id: {0E109BD6-39F8-41AC-97B5-257344833610}, Name: Visual Studio Tools for Office SharePoint 15 Project Extensions Package
@@ -173,7 +173,7 @@
 ;Id: {D5A8BA1C-E38F-4CC8-98DF-8DC7A45CC646}, Name: Visual Studio Tools for Office Project Client Package for Word
 ;Id: {D868D137-D00E-45D1-AF3B-A80950D55741}, Name: Visual Studio Tools for Office
 
-=== TFS ===
+;=== TFS ===
 ;Id: {9F19C2B5-949A-41c3-B6F9-F381869E4282}, Name: Visual Studio Team System
 ;Id: {17c5d08a-602c-4dfb-82b5-8e0f7f50c9d7}, Name: Microsoft.VisualStudio.TeamFoundation.PCW.PcwPackage
 ;Id: {1b4f495a-280a-3ba4-8db0-9c9b735e98ce}, Name: Microsoft.VisualStudio.TeamFoundation.VersionControl.SccPcwPluginPackage
@@ -195,7 +195,7 @@
 ;Id: {fc5875e7-a59e-4b0a-9b8f-c515f5f24049}, Name: TestManagementPCW
 ;Id: {4DAD8305-87C9-4431-99FF-FFE413A59F4B}, Name: Test Management
 
-=== Team Architect ===
+;=== Team Architect ===
 ;Id: {fa1929d0-d314-4897-9248-6fe1faf50a89}, Name: Microsoft.VisualStudio.TeamArchitect.ModelingProject.ModelingProjectPackage, Microsoft.VisualStudio.TeamArchitect.ModelingProject, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {2a2100a2-0ac5-48ee-b56d-c9e5832e6f1e}, Name: Microsoft.VisualStudio.ArchitectureTools.Xmi.Import.Shell.VsPackage, Microsoft.VisualStudio.ArchitectureTools.Xmi.Import, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {3452be84-3dd6-4133-839d-efb6208b469d}, Name: Microsoft.VisualStudio.TeamArchitect.ModelExplorer.ModelExplorerPackage, Microsoft.VisualStudio.TeamArchitect.ModelExplorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
@@ -211,7 +211,7 @@
 ;Id: {85be9ba4-2924-4119-94d5-21f9b547831b}, Name: ShellPackage
 ;Id: {3a46ebd4-e03f-4840-ab9f-e3d6d385b89f}, Name: Microsoft.VisualStudio.ArchitectureTools.WorkItemLinking.WorkItemLinkingPackage
 
-=== Sharepoint??? ===
+;=== Sharepoint??? ===
 ;Id: {540dcb6b-915e-4a16-a7d8-838d154377a8}, Name: Microsoft.VisualStudio.SharePoint.Designers.Package.DesignerPackage, Microsoft.VisualStudio.SharePoint.Designers.Package, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {97020FA8-0C93-43FF-9F31-466AB2B84FE4}, Name: Microsoft.VisualStudio.SharePoint.Explorer.SharePointExplorerPackage, Microsoft.VisualStudio.SharePoint.Explorer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 ;Id: {c843aa91-d18b-4889-97de-2e1839364fc9}, Name: Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.BusinessDataConnectivityPackage, Microsoft.VisualStudio.SharePoint.Designers.BusinessDataConnectivity.DslPackage, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
@@ -353,4 +353,4 @@
 ;Id: {4a2f8f5f-1bcb-4c7a-b0d6-6f82fd6fdbc8}, Name: ContextManagementPackagePackage
 ;Id: {0B93CCC5-BC52-40E9-91A3-7B8B58C4526B}, Name: Microsoft.VisualStudio.Services.Integration.ServicesPackage, Microsoft.VisualStudio.Services.Integration
 
-=================
+;=================
